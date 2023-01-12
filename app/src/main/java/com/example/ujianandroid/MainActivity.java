@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         EditText edNamaDepan = (EditText) findViewById(R.id.edNamaDepan);
-        EditText edNamaBelakang = (EditText) findViewById(R.id.edUmur);
+        EditText edNamaBelakang = (EditText) findViewById(R.id.edNamaBelakang);
         EditText edUmur = (EditText)findViewById(R.id.edUmur);
         Button btnSimpan = (Button) findViewById(R.id.btnSimpan);
 
